@@ -1,11 +1,20 @@
 {
   "name": "hsl-to-hex",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sean Chavez",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seanchavez/hsl-to-hex.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/seanchavez/hsl-to-hex/issues"
+  },
+  "homepage": "https://github.com/seanchavez/hsl-to-hex#readme",
+  "description": ""
 }
